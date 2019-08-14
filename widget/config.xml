@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<widget id='A6010134679451'>
+<widget id="A6010134679451" version="0.0.1">
     <name>HelloAPICloud</name>
     <content src='./hello.html' />
 </widget>
